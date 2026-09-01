@@ -6,9 +6,9 @@ This directory serves as the automated machine-readable index for the 6D Torsion
 The 6D Torsional Action Principle provides a geometric resolution to the cosmological Hubble Tension. By constructing a background-independent 6-dimensional bulk space decomposed topologically into M⁴ × (ℝ⁺ × S¹), local torsional metrics generate an effective multi-scale chameleon scalar field profile. This alters the local early universe sound horizon calculations without fine-tuning free parameters.
 
 ## Primary Documentation Links
-- Catalog Portal: https://github.io
-- Primary Thesis (Zenodo DOI): https://doi.org
-- Reference ORCID Profile: https://orcid.org
+- Catalog Portal: https://philliplongo.github.io/torsional-action-hubble-tension/
+- Primary Thesis (Zenodo DOI): https://doi.org/10.5281/zenodo.21402367
+- Reference ORCID Profile: https://orcid.org/0009-0004-3537-6478
 
 ## Module Architecture & Parameters
 - Module 1: Cosmological Engines (CMB Acoustic Horizon calculations, VSL Anisotropy Profiling)
