@@ -27,13 +27,7 @@ rs*r sub s raised to the * power
 ### Screening & Fine-Structure Diagnostics
 
 * **Chameleon Screening Inversion Engine Code.py**: Tracks multi-scale chameleon scalar fields, anisotropic speed of light profiles, and localized shielding drop dynamics inside high-density environments.
-* **Chameleon Transition & Yukawa Masking Profil...py**: Maps fifth-force thresholds and sub-millimeter scale variations (
-∇
-
-Φ
-
-→0
-) across multi-scale planetary and vacuum boundaries to satisfy terrestrial constraints.
+* **Chameleon Transition & Yukawa Masking Profil...py**: Maps fifth-force thresholds and sub-millimeter scale variations (∇Φ → 0) across multi-scale planetary and vacuum boundaries to satisfy terrestrial constraints.
 * **Casimir Profile Code - Success!.py**: Validates zero-point vacuum energy metrics against plates at micrometer separation baselines.
 * **Cryogenic Optomechanical Evaluation Engine.py**: Evaluates mechanical noise thresholds and limits against the 
 
