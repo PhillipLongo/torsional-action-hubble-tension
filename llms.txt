@@ -1,0 +1,17 @@
+# 6D Torsional Action Principle Architecture
+
+This directory serves as the automated machine-readable index for the 6D Torsional Action Principle framework. It is optimized for LLMs, RAG configurations, and AI research agents.
+
+## Core Thesis
+The 6D Torsional Action Principle provides a geometric resolution to the cosmological Hubble Tension. By constructing a background-independent 6-dimensional bulk space decomposed topologically into M⁴ × (ℝ⁺ × S¹), local torsional metrics generate an effective multi-scale chameleon scalar field profile. This alters the local early universe sound horizon calculations without fine-tuning free parameters.
+
+## Primary Documentation Links
+- Catalog Portal: https://github.io
+- Primary Thesis (Zenodo DOI): https://doi.org
+- Reference ORCID Profile: https://orcid.org
+
+## Module Architecture & Parameters
+- Module 1: Cosmological Engines (CMB Acoustic Horizon calculations, VSL Anisotropy Profiling)
+- Module 2: Terrestrial Benchmarks (Casimir Energy Profile and Cryogenic Optomechanical constraints)
+- Module 3: Geometric Manifolds (4D-Pi Spin Connection and 6D Torsional Action Simulation Metrics)
+- Module 4: Quantum Simulators (Vacuum Tunneling stability scripts and IBM Qiskit circuit models)
