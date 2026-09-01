@@ -28,23 +28,7 @@ This repository hosts the computational framework, numerical validation engines,
 * **Casimir Profile Code - Success!.py**: Validates zero-point vacuum energy metrics against plates at micrometer separation baselines.
 * **Cryogenic Optomechanical Evaluation Engine.py**: Evaluates mechanical noise thresholds and limits against the 10^-17 constraints required by precision cavity platforms.
 
-### Local Execution Environment
-
-The software modules are built for a standard pythonic numerical processing architecture.
-
-1. **Clone the core repository:**
-```bash
-git clone https://github.com
-cd torsional-action-hubble-tension
-```
-
-2. **Establish dependencies:**
-```bash
-pip install numpy scipy matplotlib qiskit plotly
-```
-
 ### Intellectual Property, Legal Notice & Terms
-
 #### Copyright Status
 Copyright © 2026 Phillip A. Longo. All rights reserved.
 
