@@ -29,6 +29,7 @@ This repository hosts the computational framework, numerical validation engines,
 * **Cryogenic Optomechanical Evaluation Engine.py**: Evaluates mechanical noise thresholds and limits against the 10^-17 constraints required by precision cavity platforms.
 
 ### Intellectual Property, Legal Notice & Terms
+
 #### Copyright Status
 Copyright © 2026 Phillip A. Longo. All rights reserved.
 
@@ -66,52 +67,3 @@ Any usage, extraction, or local replication of this code framework within an aca
   url          = {https://doi.org}
 }
 ```
-### LaTeX BibTeX Entries
-
-bibtex
-
-@misc{longo2026torsional,
-  author       = {Longo, Phillip A.},
-  title        = {A {S}ix-{D}imensional {T}orsional {A}ction {P}rinciple and its {E}xplicit {R}esolution of the {C}osmological {H}ubble {T}ension},
-  year         = {2026},
-  month        = {July},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21402367},
-  url          = {https://doi.org/10.5281/zenodo.21402367}
-}
-
-@misc{longo2026supplement,
-  author       = {Longo, Phillip A.},
-  title        = {Technical {S}upplement \& {P}arameter {I}ndex: {M}ulti-{S}cale {C}hameleon {S}calar {F}ields and {A}nisotropic {S}peed of {L}ight {P}rofiles},
-  year         = {2026},
-  month        = {July},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21483785},
-  url          = {https://doi.org/10.5281/zenodo.21483785}
-}
-
-cff-version: 1.2.0
-message: "If you utilize this computational simulation framework or reference the 6D torsional action parameters, please cite both the primary work and the technical supplement using these metadata fields."
-authors: 
-
-* family-names: "Longo"
-given-names: "Phillip A."
-orcid: "https://orcid.org/0009-0004-3537-6478"
-title: "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension"
-version: "4.0.0"
-doi: "10.5281/zenodo.21402367"
-date-released: "2026-07-16"
-url: "https://doi.org/10.5281/zenodo.21402367"
-type: software
-license: GPL-3.0
-references:
-* type: generic
-authors: 
-
-  * family-names: "Longo"
-given-names: "Phillip A."
-orcid: "https://orcid.org/0009-0004-3537-6478"
-title: "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles"
-doi: "10.5281/zenodo.21483785"
-date-released: "2026-07-22"
-url: "https://doi.org/10.5281/zenodo.21483785"
