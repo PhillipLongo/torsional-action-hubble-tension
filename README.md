@@ -2,7 +2,7 @@
 
 This repository hosts the computational framework, numerical validation engines, and 4D effective field mapping scripts for the 9-module integration pipeline detailing a six-dimensional semiclassical action functional over an extended configuration manifold. 
 
-* **Interactive Live Dashboard:** https://github.io
+* **Interactive Live Dashboard:** https://philliplongo.github.io/torsional-action-hubble-tension/
 * **Primary Manuscript (Zenodo):** https://zenodo.org/records/22234910
 * **Technical Supplement & Parameter Index:** https://zenodo.org/records/22235070
 * **Author ORCID iD:** https://orcid.org/0009-0004-3537-6478
