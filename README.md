@@ -52,30 +52,34 @@ The mathematical algorithms, coordinate conversions, dimensional regularization 
 #### Licensing Under GNU GPLv3
 This source code is publicly tracked under the provisions of the GNU General Public License v3.0 (GPL-3.0). Any distribution, derivation, translation, or inclusion of these modules into other numerical architectures must remain transparently open-source under equivalent copyleft provisions. Packaging within hidden closed-source codebases or undisclosed commercial platforms is legally prohibited.
 
-#### Formal Academic Citation Requirement
-Any usage, extraction, or local replication of this code framework within an academic study, conference paper, or preprint publication requires explicit attribution to both the primary text and the technical supplement.
+### Formal Academic Citation Requirement
 
-**Standard Format:**
-* Longo, P. A. (2026). "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension." *Zenodo*. doi:10.5281/zenodo.22234910
-* Longo, P. A. (2026). "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles." *Zenodo*. doi:10.5281/zenodo.22235070
+Any usage, extraction, or local replication of this code framework within an academic study, conference paper, or preprint publication requires explicit attribution to both the primary text and the technical supplement. 
 
-**LaTeX BibTeX Entries:**
+This repository includes a `CITATION.cff` file in its root directory. GitHub users can generate APA, Harvard, or alternative citation formats automatically using the **"Cite this repository"** button in the sidebar.
+
+#### Standard Format (APA 7th Edition)
+* Longo, P. A. (2026). *A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension* [Computer software]. Zenodo. https://doi.org
+* Longo, P. A. (2026). *Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles*. Zenodo. https://doi.org
+
+#### LaTeX BibTeX Entries
 ```bibtex
-@misc{longo2026torsional,
+@software{longo2026torsional,
   author       = {Longo, Phillip A.},
   title        = {A {S}ix-{D}imensional {T}orsional {A}ction {P}rinciple and its {E}xplicit {R}esolution of the {C}osmological {H}ubble {T}ension},
   year         = {2026},
-  month        = {September},
+  month        = sep,
+  version      = {4.0.0},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.22234910},
-  url          = {https://zenodo.org/records/22234910}
+  url          = {https://philliplongo.github.io/torsional-action-hubble-tension/}
 }
 
 @misc{longo2026supplement,
   author       = {Longo, Phillip A.},
   title        = {Technical {S}upplement \& {P}arameter {I}ndex: {M}ulti-{S}cale {C}hameleon {S}calar {F}ields and {A}nisotropic {S}peed of {L}ight {P}rofiles},
   year         = {2026},
-  month        = {September},
+  month        = sep,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.22235070},
   url          = {https://zenodo.org/records/22235070}
