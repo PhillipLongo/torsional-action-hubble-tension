@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you utilize this computational simulation framework or reference the 6D torsional action parameters, please cite both the primary work and the technical supplement using these metadata fields."
+authors:
+  - family-names: "Longo"
+    given-names: "Phillip A."
+    orcid: "https://orcid.org"
+title: "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension"
+version: "4.0.0"
+doi: "10.5281/zenodo.22234910"
+date-released: "2026-07-16"
+url: "https://doi.org"
+type: software
+license: GPL-3.0
+references:
+  - type: generic
+    authors:
+      - family-names: "Longo"
+    given-names: "Phillip A."
+    orcid: "https://orcid.org"
+    title: "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles"
+    doi: "10.5281/zenodo.22235070"
+    date-released: "2026-07-22"
+    url: "https://doi.org"
