@@ -1,0 +1,44 @@
+{
+  "project_name": "6D Torsional Action Principle Architecture",
+  "author": "P. A. Longo (2026)",
+  "primary_doi": "10.5281/zenodo.21402367",
+  "supplement_doi": "10.5281/zenodo.21483785",
+  "orcid_id": "0009-0004-3537-6478",
+  "theoretical_framework": {
+    "dimensions": 6,
+    "topology_decomposition": "M^4 x (R^+ x S^1)",
+    "primary_field_proxy": "Multi-Scale Chameleon Scalar Fields",
+    "target_application": "Geometric Resolution of Cosmological Hubble Tension"
+  },
+  "computational_modules": {
+    "module_1_cosmological_engines": {
+      "total_systems": 8,
+      "core_metrics": {
+        "cmb_acoustic_horizon": "Target Solution H_0 ≃ 73.2 km/s/Mpc",
+        "cmb_tensor_matrix": "6x6 Covariant Block Structure",
+        "vsl_anisotropy_profiler": "Delta Factor (Δc/c) = 1.42e-5, α_chameleon = 2.14"
+      }
+    },
+    "module_2_terrestrial_benchmarks": {
+      "total_systems": 5,
+      "core_metrics": {
+        "casimir_energy_profile": "Plate Separation d = 10nm to 100nm, δ_torsion ≃ 0.0034",
+        "casimir_force_scaling": "Power Law Scaling Exponent n=4, λ_cutoff = 4.2 nm"
+      }
+    },
+    "module_3_geometric_manifold": {
+      "total_systems": 8,
+      "core_metrics": {
+        "spin_orbit_topology": "Winding Number w=1, SU(2) Gauge Embedding",
+        "torsional_action_model": "Action S = integral d^6x sqrt(-g) [R + T_torsion]"
+      }
+    },
+    "module_4_quantum_simulators": {
+      "total_systems": 4,
+      "core_metrics": {
+        "room_temperature_compute": "Coherence Time τ_coherence ≃ 1.22 ms, Operating Temp T ≃ 293 K",
+        "vacuum_state_tunneling": "Decay Rate Γ < 10^-120 events/Gpc³, Bounce Action B = 432.1"
+      }
+    }
+  }
+}
