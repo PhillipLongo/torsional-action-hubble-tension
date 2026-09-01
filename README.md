@@ -35,6 +35,13 @@ Copyright © 2026 Phillip A. Longo. All rights reserved.
 
 The mathematical algorithms, coordinate conversions, dimensional regularization schemas, and computational code structures contained within this repository are the proprietary scientific work of Phillip A. Longo.
 
+### Intellectual Property, Legal Notice & Terms
+
+#### Copyright Status
+Copyright © 2026 Phillip A. Longo. All rights reserved.
+
+The mathematical algorithms, coordinate conversions, dimensional regularization schemas, and computational code structures contained within this repository are the proprietary scientific work of Phillip A. Longo.
+
 #### Licensing Under GNU GPLv3
 This source code is publicly tracked under the provisions of the GNU General Public License v3.0 (GPL-3.0). Any distribution, derivation, translation, or inclusion of these modules into other numerical architectures must remain transparently open-source under equivalent copyleft provisions. Packaging within hidden closed-source codebases or undisclosed commercial platforms is legally prohibited.
 
@@ -42,14 +49,10 @@ This source code is publicly tracked under the provisions of the GNU General Pub
 Any usage, extraction, or local replication of this code framework within an academic study, conference paper, or preprint publication requires explicit attribution to both the primary text and the technical supplement.
 
 **Standard Format:**
-* Longo, P. A. (2026). "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension." *Zenodo*. https://doi.org
-* Longo, P. A. (2026). "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles." *Zenodo*. https://doi.org
-
-Standard Format:
 * Longo, P. A. (2026). "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension." *Zenodo*. `https://doi.org`
 * Longo, P. A. (2026). "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles." *Zenodo*. `https://doi.org`
 
-LaTeX BibTeX Entries:
+**LaTeX BibTeX Entries:**
 ```bibtex
 @misc{longo2026torsional,
   author       = {Longo, Phillip A.},
