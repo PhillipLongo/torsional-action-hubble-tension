@@ -7,7 +7,8 @@ The 6D Torsional Action Principle provides a geometric resolution to the cosmolo
 
 ## Primary Documentation Links
 - Catalog Portal: https://philliplongo.github.io/torsional-action-hubble-tension/
-- Primary Thesis (Zenodo DOI): https://doi.org/10.5281/zenodo.21402367
+- Primary Thesis (Zenodo DOI): https://doi.org/10.5281/zenodo.22234910
+- Supplemental (Zenodo DOI): https://doi.org/10.5281/zenodo.22235070
 - Reference ORCID Profile: https://orcid.org/0009-0004-3537-6478
 
 ## Module Architecture & Parameters
