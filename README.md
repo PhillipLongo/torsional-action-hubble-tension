@@ -30,54 +30,58 @@ This repository hosts the computational framework, numerical validation engines,
 
 ### Local Execution Environment
 
-The software modules are built for a standard pythonic numerical processing architecture. 
+The software modules are built for a standard pythonic numerical processing architecture.
 
-1. Clone the core repository:
-
-bash
-
-git clone https://github.com/PhillipLongo/torsional-action-hubble-tension.git
+1. **Clone the core repository:**
+```bash
+git clone https://github.com
 cd torsional-action-hubble-tension
+```
 
-
-1. Establish dependencies:
-
-bash
-
+2. **Establish dependencies:**
+```bash
 pip install numpy scipy matplotlib qiskit plotly
-
-Use code with caution.
-
-1. Initialize primary simulation:
-
-bash
-
-python "QSIM 6D Torsional A-Prin Macro-Vacuum Refri...py"
-
-Use code with caution.
+```
 
 ### Intellectual Property, Legal Notice & Terms
 
-### Copyright Status
+#### Copyright Status
+Copyright © 2026 Phillip A. Longo. All rights reserved.
 
-Copyright © 2026 Phillip A. Longo. All rights reserved. 
+The mathematical algorithms, coordinate conversions, dimensional regularization schemas, and computational code structures contained within this repository are the proprietary scientific work of Phillip A. Longo.
 
-The mathematical algorithms, coordinate conversions, dimensional regularization schemas, and computational code structures contained within this repository are the proprietary scientific work of Phillip A. Longo. 
+#### Licensing Under GNU GPLv3
+This source code is publicly tracked under the provisions of the GNU General Public License v3.0 (GPL-3.0). Any distribution, derivation, translation, or inclusion of these modules into other numerical architectures must remain transparently open-source under equivalent copyleft provisions. Packaging within hidden closed-source codebases or undisclosed commercial platforms is legally prohibited.
 
-### Licensing Under GNU GPLv3
+#### Formal Academic Citation Requirement
+Any usage, extraction, or local replication of this code framework within an academic study, conference paper, or preprint publication requires explicit attribution to both the primary text and the technical supplement.
 
-This source code is publicly tracked under the provisions of the GNU General Public License v3.0 (GPL-3.0). Any distribution, derivation, translation, or inclusion of these modules into other numerical architectures must remain transparently open-source under equivalent copyleft provisions. Packaging within hidden closed-source codebases or undisclosed commercial platforms is legally prohibited. 
+**Standard Format:**
+* Longo, P. A. (2026). "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension." *Zenodo*. https://doi.org
+* Longo, P. A. (2026). "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles." *Zenodo*. https://doi.org
 
-### Formal Academic Citation Requirement
+**LaTeX BibTeX Entries:**
+```bibtex
+@misc{longo2026torsional,
+  author       = {Longo, Phillip A.},
+  title        = {A {S}ix-{D}imensional {T}orsional {A}ction {P}rinciple and its {E}xplicit {R}esolution of the {C}osmological {H}ubble {T}ension},
+  year         = {2026},
+  month        = {September},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22234910},
+  url          = {https://doi.org}
+}
 
-Any usage, extraction, or local replication of this code framework within an academic study, conference paper, or preprint publication requires explicit attribution to both the primary text and the technical supplement. 
-
-### Standard Format
-
-Longo, P. A. (2026). "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension." Zenodo. https://doi.org/10.5281/zenodo.21402367 
-
-Longo, P. A. (2026). "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles." Zenodo. https://doi.org/10.5281/zenodo.21483785 
-
+@misc{longo2026supplement,
+  author       = {Longo, Phillip A.},
+  title        = {Technical {S}upplement \& {P}arameter {I}ndex: {M}ulti-{S}cale {C}hameleon {S}calar {F}ields and {A}nisotropic {S}peed of {L}ight {P}rofiles},
+  year         = {2026},
+  month        = {September},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22235070},
+  url          = {https://doi.org}
+}
+```
 ### LaTeX BibTeX Entries
 
 bibtex
