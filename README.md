@@ -59,8 +59,8 @@ Any usage, extraction, or local replication of this code framework within an aca
 This repository includes a `CITATION.cff` file in its root directory. GitHub users can generate APA, Harvard, or alternative citation formats automatically using the **"Cite this repository"** button in the sidebar.
 
 #### Standard Format (APA 7th Edition)
-* Longo, P. A. (2026). *A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension* [Computer software]. https://zenodo.org/records/22234910
-* Longo, P. A. (2026). *Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles*. https://zenodo.org/records/22235070
+* Longo, P. A. (2026). *A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension* [Computer software]. Zenodo. https://zenodo.org/records/22234910
+* Longo, P. A. (2026). *Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles*. Zenodo. https://zenodo.org/records/22235070
 
 #### LaTeX BibTeX Entries
 ```bibtex
@@ -68,7 +68,7 @@ This repository includes a `CITATION.cff` file in its root directory. GitHub use
   author       = {Longo, Phillip A.},
   title        = {A {S}ix-{D}imensional {T}orsional {A}ction {P}rinciple and its {E}xplicit {R}esolution of the {C}osmological {H}ubble {T}ension},
   year         = {2026},
-  month        = sep,
+  month        = {sep},
   version      = {4.0.0},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.22234910},
@@ -79,7 +79,7 @@ This repository includes a `CITATION.cff` file in its root directory. GitHub use
   author       = {Longo, Phillip A.},
   title        = {Technical {S}upplement \& {P}arameter {I}ndex: {M}ulti-{S}cale {C}hameleon {S}calar {F}ields and {A}nisotropic {S}peed of {L}ight {P}rofiles},
   year         = {2026},
-  month        = sep,
+  month        = {sep},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.22235070},
   url          = {https://zenodo.org/records/22235070}
