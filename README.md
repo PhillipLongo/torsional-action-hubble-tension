@@ -59,8 +59,8 @@ Any usage, extraction, or local replication of this code framework within an aca
 This repository includes a `CITATION.cff` file in its root directory. GitHub users can generate APA, Harvard, or alternative citation formats automatically using the **"Cite this repository"** button in the sidebar.
 
 #### Standard Format (APA 7th Edition)
-* Longo, P. A. (2026). *A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension* [Computer software]. Zenodo. https://doi.org
-* Longo, P. A. (2026). *Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles*. Zenodo. https://doi.org
+* Longo, P. A. (2026). *A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension* [Computer software]. https://zenodo.org/records/22234910
+* Longo, P. A. (2026). *Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles*. https://zenodo.org/records/22235070
 
 #### LaTeX BibTeX Entries
 ```bibtex
