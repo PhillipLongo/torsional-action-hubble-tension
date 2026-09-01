@@ -3,21 +3,23 @@ message: "If you utilize this computational simulation framework or reference th
 authors:
   - family-names: "Longo"
     given-names: "Phillip A."
-    orcid: "https://orcid.org"
+    orcid: "https://orcid.org/0009-0004-3537-6478"
 title: "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension"
 version: "4.0.0"
 doi: "10.5281/zenodo.22234910"
 date-released: "2026-07-16"
-url: "https://doi.org"
+url: "https://philliplongo.github.io/torsional-action-hubble-tension/"
 type: software
 license: GPL-3.0
 references:
   - type: generic
     authors:
       - family-names: "Longo"
-    given-names: "Phillip A."
-    orcid: "https://orcid.org"
+        given-names: "Phillip A."
+        orcid: "https://orcid.org/0009-0004-3537-6478"
     title: "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles"
     doi: "10.5281/zenodo.22235070"
     date-released: "2026-07-22"
-    url: "https://doi.org"
+    url: "https://zenodo.org/records/22235070"
+
+
