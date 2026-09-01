@@ -17,7 +17,8 @@ This repository hosts the computational framework, numerical validation engines,
 
 ### Cosmological & Horizon Simulation Engines
 
-* **CMB Acoustic Horizon Data Calculations (Mod...py**: Evaluates metric variations across acoustic horizons and calculates the 17.68% comoving sound horizon (rs*r sub s raised to the * power 𝑟*𝑠) compression window.
+* **CMB Acoustic Horizon Data Calculations (Mod...py**: Evaluates metric variations across acoustic horizons and calculates the 10.73% comoving sound horizon (r_s*) compression window.
+
 * **CMB TENSOR MATRIX INDEXING Equation & C...py**: Implements background radiation tensor indexing profiles within Einstein-Cartan-Sciama-Kibble geometries.
 
 ### Screening & Fine-Structure Diagnostics
