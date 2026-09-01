@@ -17,11 +17,7 @@ This repository hosts the computational framework, numerical validation engines,
 
 ### Cosmological & Horizon Simulation Engines
 
-* **CMB Acoustic Horizon Data Calculations (Mod...py**: Evaluates metric variations across acoustic horizons and calculates the 17.68% comoving sound horizon (
-
-rs*r sub s raised to the * power
-𝑟*𝑠
-) compression window.
+* **CMB Acoustic Horizon Data Calculations (Mod...py**: Evaluates metric variations across acoustic horizons and calculates the 17.68% comoving sound horizon (rs*r sub s raised to the * power 𝑟*𝑠) compression window.
 * **CMB TENSOR MATRIX INDEXING Equation & C...py**: Implements background radiation tensor indexing profiles within Einstein-Cartan-Sciama-Kibble geometries.
 
 ### Screening & Fine-Structure Diagnostics
@@ -29,11 +25,7 @@ rs*r sub s raised to the * power
 * **Chameleon Screening Inversion Engine Code.py**: Tracks multi-scale chameleon scalar fields, anisotropic speed of light profiles, and localized shielding drop dynamics inside high-density environments.
 * **Chameleon Transition & Yukawa Masking Profil...py**: Maps fifth-force thresholds and sub-millimeter scale variations (∇Φ → 0) across multi-scale planetary and vacuum boundaries to satisfy terrestrial constraints.
 * **Casimir Profile Code - Success!.py**: Validates zero-point vacuum energy metrics against plates at micrometer separation baselines.
-* **Cryogenic Optomechanical Evaluation Engine.py**: Evaluates mechanical noise thresholds and limits against the 
-
-10-1710 to the negative 17 power
-10−17
- constraints required by precision cavity platforms.
+* **Cryogenic Optomechanical Evaluation Engine.py**: Evaluates mechanical noise thresholds and limits against the 10^-17 constraints required by precision cavity platforms.
 
 ### Local Execution Environment
 
