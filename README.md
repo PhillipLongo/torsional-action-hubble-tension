@@ -45,7 +45,11 @@ Any usage, extraction, or local replication of this code framework within an aca
 * Longo, P. A. (2026). "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension." *Zenodo*. https://doi.org
 * Longo, P. A. (2026). "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles." *Zenodo*. https://doi.org
 
-**LaTeX BibTeX Entries:**
+Standard Format:
+* Longo, P. A. (2026). "A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension." *Zenodo*. `https://doi.org`
+* Longo, P. A. (2026). "Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles." *Zenodo*. `https://doi.org`
+
+LaTeX BibTeX Entries:
 ```bibtex
 @misc{longo2026torsional,
   author       = {Longo, Phillip A.},
