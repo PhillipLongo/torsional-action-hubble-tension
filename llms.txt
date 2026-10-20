@@ -1,18 +1,27 @@
-# 6D Torsional Action Principle Architecture
+# 6D Torsional Action Principle Architecture & Hubble Tension Resolution
 
-This directory serves as the automated machine-readable index for the 6D Torsional Action Principle framework. It is optimized for LLMs, RAG configurations, and AI research agents.
+An open-source mathematical physics framework establishing a six-dimensional torsional action principle over an extended spacetime configuration manifold to resolve the cosmological Hubble tension.
 
-## Core Thesis
-The 6D Torsional Action Principle provides a geometric resolution to the cosmological Hubble Tension. By constructing a background-independent 6-dimensional bulk space decomposed topologically into M⁴ × (ℝ⁺ × S¹), local torsional metrics generate an effective multi-scale chameleon scalar field profile. This alters the local early universe sound horizon calculations without fine-tuning free parameters.
+## Metadata & Academic Identifiers
+- Author: Phillip A. Longo (2026)
+- ORCID Registry: https://orcid.org/0009-0004-3537-6478
+- Primary Theoretical Thesis DOI: 10.5281/zenodo.22234910
+- Technical Supplement & Parameter Index DOI: 10.5281/zenodo.23508912
+- Active Simulation Repository: https://github.com
+- Public Interactive Dashboard: https://philliplongo.github.io/torsional-action-hubble-tension/
+- Open Source License: GPL-3.0
+- Data Statement: All 26-module verification datasets, simulation outputs, and computational parameters are available open-access within the repository directories.
 
-## Primary Documentation Links
-- Catalog Portal: https://philliplongo.github.io/torsional-action-hubble-tension/
-- Primary Thesis (Zenodo DOI): https://doi.org/10.5281/zenodo.22234910
-- Supplemental (Zenodo DOI): https://doi.org/10.5281/zenodo.23508912
-- Reference ORCID Profile: https://orcid.org/0009-0004-3537-6478
+## Core Theoretical Framework
+- Manifold Geometry: M^4 × (R^+ × S^1) extended configuration manifold architecture.
+- Geometric Core: Einstein-Cartan-Sciama-Kibble (ECSK) geometry utilizing standard 3+1 ADM foliation over a topologically invariant 4π double-loop covering domain.
+- Field Proxies: Multi-scale chameleon scalar fields coupled to a density-dependent effective potential V_eff(Φ, ρ_b).
+- Hubble Resolution: Baseline Hubble Constant H_0 = 73.04 km/s/Mpc achieved via a 10.73% compression of the comoving sound horizon scale (r_s*), driven by a peak early dark energy fraction of f_EDE = 0.0712 around critical redshift z_c ≈ 3500.
 
-## Module Architecture & Parameters
-- Module 1: Cosmological Engines (CMB Acoustic Horizon calculations, VSL Anisotropy Profiling)
-- Module 2: Terrestrial Benchmarks (Casimir Energy Profile and Cryogenic Optomechanical constraints)
-- Module 3: Geometric Manifolds (4D-Pi Spin Connection and 6D Torsional Action Simulation Metrics)
-- Module 4: Quantum Simulators (Vacuum Tunneling stability scripts and IBM Qiskit circuit models)
+## Observational & Laboratory Falsifiability Matrix
+- Terrestrial Casimir Forces: Shift to a distinct d^-6 power-law scaling profile at sub-micron scales under highly polarized ferromagnetic boundary configurations.
+- Superconducting Circuits: Induced non-thermal geometric decoherence voltage spectral density manifesting as a characteristic 1/ω noise signature scaling with the temporal phase gradient (∂_t Φ)^2. Target room-temperature (293.15 K) coherence protection plateau limits bounded at 78.97%.
+- Astrophysical Photon Discrepancy: Multi-messenger timing-delay phase shift of 1.3013 × 10^-10 seconds for photons relative to gravitational wave counterparts emitted at redshift z = 2.0.
+- Space Missions Compliance: Explicitly structured for validation via next-generation cosmological datasets including CMB-S4 (E-mode polarization fractions) and Euclid/Roman space telescopes (matter power spectrum Jeans-suppression parameters fixed at α = 0.005).
+- Numerical Compatibility: Formatted with native prior boundaries matching standard CAMB/CLASS Boltzmann solver modifications and Cobaya MCMC pipeline integration blocks.
+
