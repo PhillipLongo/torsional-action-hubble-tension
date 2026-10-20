@@ -1,9 +1,11 @@
 {
   "project_name": "6D Torsional Action Principle Architecture",
   "author": "P. A. Longo (2026)",
-  "primary_doi": "10.5281/zenodo.21402367",
-  "supplement_doi": "10.5281/zenodo.21483785",
+  "primary_doi": "10.5281/zenodo.22234910",
+  "supplement_doi": "10.5281/zenodo.23508912",
   "orcid_id": "0009-0004-3537-6478",
+  "license": "GPL-3.0",
+  "data_availability": "All 26-module verification datasets, simulation outputs, and raw numerical arrays are publicly available within the root-level directories of this repository under open-access distribution terms.",
   "theoretical_framework": {
     "dimensions": 6,
     "topology_decomposition": "M^4 x (R^+ x S^1)",
@@ -14,7 +16,7 @@
     "module_1_cosmological_engines": {
       "total_systems": 8,
       "core_metrics": {
-        "cmb_acoustic_horizon": "Target Solution H_0 ≃ 73.2 km/s/Mpc",
+        "cmb_acoustic_horizon": "Target Solution H_0 ≃ 73.04 km/s/Mpc",
         "cmb_tensor_matrix": "6x6 Covariant Block Structure",
         "vsl_anisotropy_profiler": "Delta Factor (Δc/c) = 1.42e-5, α_chameleon = 2.14"
       }
@@ -37,8 +39,34 @@
       "total_systems": 4,
       "core_metrics": {
         "room_temperature_compute": "Coherence Time τ_coherence ≃ 1.22 ms, Operating Temp T ≃ 293 K",
-        "vacuum_state_tunneling": "Decay Rate Γ < 10^-120 events/Gpc³, Bounce Action B = 432.1"
+        "vacuum_state_tunneling": "Decay Rate Γ < 10^-120 events/Gpc⁴, Bounce Action B = 432.1"
       }
+    }
+  },
+  "pipeline_integration": {
+    "boltzmann_solvers": ["CAMB-compatible user modifications", "CLASS-compatible fluid parameter injection"],
+    "mcmc_samplers": {
+      "framework": "Cobaya / CosmoMC native prior formatting",
+      "early_dark_energy_bounds": {
+        "f_ede_peak": 0.0712,
+        "critical_redshift_zc": 3500,
+        "sound_horizon_compression": "10.73%"
+      }
+    }
+  },
+  "observational_falsifiability_matrix": {
+    "cmb_s4": {
+      "targeted_metric": "E-mode polarization and f_EDE constraints",
+      "model_prediction": "Peak fraction stable at 0.0712 under early 4π loop torsion boost"
+    },
+    "euclid_roman_telescopes": {
+      "targeted_metric": "Matter power spectrum suppression bounds",
+      "model_prediction": "Sub-galactic core-cusp smoothing with Jeans-suppression parameter α = 0.005"
+    },
+    "next_gen_atomic_clocks": {
+      "targeted_metric": "Local variation of constants",
+      "model_prediction": "Terrestrial drift velocity bounded below 10^-17 due to rigid chameleon shielding"
     }
   }
 }
+
