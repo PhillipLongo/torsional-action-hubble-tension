@@ -6,6 +6,9 @@ This repository hosts the computational framework, numerical validation engines,
 * **Primary Manuscript (Zenodo):** https://zenodo.org/records/22234910
 * **Technical Supplement & Parameter Index:** https://zenodo.org/records/23508912
 * **Author ORCID iD:** https://orcid.org/0009-0004-3537-6478
+* **Academic Archive:** [HAL Science Preprint Record | hal-05828191](https://hal.science)
+
+
 
 ### Technical Manifest
 
