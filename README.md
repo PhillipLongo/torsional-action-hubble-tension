@@ -84,7 +84,7 @@ This repository includes a `CITATION.cff` file in its root directory. GitHub use
   year         = {2026},
   month        = {sep},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22235070},
-  url          = {https://zenodo.org/records/22235070}
+  doi          = {10.5281/zenodo.23508912},
+  url          = {https://zenodo.org/records/23508912}
 }
 ```
