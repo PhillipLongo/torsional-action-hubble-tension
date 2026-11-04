@@ -9,7 +9,6 @@ This repository hosts the computational framework, numerical validation engines,
 * **Academic Archive (HAL):** [hal-05828191](https://hal.science)
 
 
-
 ### Technical Manifest
 
 ### Quantum & Manifold Projections
