@@ -62,24 +62,23 @@ This repository includes a `CITATION.cff` file in its root directory. GitHub use
 
 #### LaTeX BibTeX Entries
 ```bibtex
-@software{longo2026torsional,
+@unpublished{longo2026torsional,
   author       = {Longo, Phillip A.},
-  title        = {A {S}ix-{D}imensional {T}orsional {A}ction {P}rinciple and its {E}xplicit {R}esolution of the {C}osmological {H}ubble {T}ension},
+  title        = {{A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension}},
   year         = {2026},
-  month        = {sep},
-  version      = {4.0.0},
-  publisher    = {Zenodo},
+  month        = sep,
+  note         = {Zenodo Preprint, Version 7.0},
   doi          = {10.5281/zenodo.22234910},
-  url          = {https://philliplongo.github.io/torsional-action-hubble-tension/}
+  url          = {https://doi.org}
 }
 
-@misc{longo2026supplement,
+@unpublished{longo2026supplement,
   author       = {Longo, Phillip A.},
-  title        = {Technical {S}upplement \& {P}arameter {I}ndex: {M}ulti-{S}cale {C}hameleon {S}calar {F}ields and {A}nisotropic {S}peed of {L}ight {P}rofiles},
+  title        = {{Technical Supplement \& Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles}},
   year         = {2026},
-  month        = {sep},
-  publisher    = {Zenodo},
+  month        = oct,
+  note         = {Zenodo Technical Supplement, Version 4.0},
   doi          = {10.5281/zenodo.23508912},
-  url          = {https://zenodo.org/records/23508912}
+  url          = {https://doi.org}
 }
 ```
