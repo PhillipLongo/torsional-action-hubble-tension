@@ -12,11 +12,10 @@ This repository hosts the computational framework, numerical validation engines,
 
 ###  Instant Preprint Access & Assets
 
-Since this work is establishing its indexing profile across global scientific networks, the pre-print manuscripts and full-text layouts are served directly out of this repository's version asset layers.
+Since this work is establishing its indexing profile across global scientific networks, the preprint manuscripts and full-text layouts are served directly out of this repository's asset layers.
 
-*  **[Download Primary Manuscript PDF Layout](https://zenodo.org)**
-*  **[Download Technical Supplement PDF Layout](https://zenodo.org)**
-*  **[Access Full Preprint Assets Release](https://github.com)**
+*  **[Download Primary Manuscript PDF Layout](./Longo_6D_torsional_action_principle_h0%20(1).pdf)**
+*  **[Access Core Project Repositories](https://github.com)**
 
 ---
 
@@ -39,7 +38,7 @@ Since this work is establishing its indexing profile across global scientific ne
 
 ---
 
-### Intellectual Property, Legal Notice & Terms
+###  Intellectual Property, Legal Notice & Terms
 
 #### Copyright Status
 **Copyright © 2026 Phillip A. Longo. All rights reserved.**
