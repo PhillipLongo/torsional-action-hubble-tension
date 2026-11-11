@@ -4,7 +4,7 @@ This repository hosts the computational framework, numerical validation engines,
 
 *  **Interactive Live Dashboard:** [philliplongo.github.io/torsional-action-hubble-tension/](https://philliplongo.github.io/torsional-action-hubble-tension/)
 *  **Primary Manuscript (Zenodo):** [10.5281/zenodo.22234910](https://zenodo.org/records/22234910)
-*  **Technical Supplement & Parameter Index:** [10.5281/zenodo.23508912](https://zenodo.org/records/23508912)
+*  **Technical Supplement & Parameter Index:** [10.5281/zenodo.24122086](https://zenodo.org/records/24122086)
 *  **Academic Archive (HAL):** [hal-05828191](https://hal.science)
 *  **Author ORCID iD:** [0009-0004-3537-6478](https://orcid.org/0009-0004-3537-6478)
 
@@ -57,7 +57,7 @@ This repository includes a `CITATION.cff` file in its root directory. GitHub use
 
 #### Standard Format (APA 7th Edition)
 * Longo, P. A. (2026). *A Six-Dimensional Torsional Action Principle and its Explicit Resolution of the Cosmological Hubble Tension* [Computer software]. Zenodo. https://zenodo.org/records/22234910
-* Longo, P. A. (2026). *Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles*. Zenodo. https://zenodo.org/records/23508912
+* Longo, P. A. (2026). *Technical Supplement & Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles*. Zenodo. https://zenodo.org/records/24122086
 
 #### LaTeX BibTeX Entries
 ```bibtex
@@ -76,8 +76,8 @@ This repository includes a `CITATION.cff` file in its root directory. GitHub use
   title        = {{Technical Supplement \& Parameter Index: Multi-Scale Chameleon Scalar Fields and Anisotropic Speed of Light Profiles}},
   year         = {2026},
   month        = oct,
-  note         = {Zenodo Technical Supplement, Version 4.0},
-  doi          = {10.5281/zenodo.23508912},
+  note         = {Zenodo Technical Supplement, Version 5.0},
+  doi          = {10.5281/zenodo.24122086},
   url          = {https://doi.org}
 }
 ```
